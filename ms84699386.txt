@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "coframe.com",
+  "Id": "7c300567-d3ba-41ac-8442-2f8afc991427"
+}
